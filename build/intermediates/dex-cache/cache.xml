@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nadav/Projects/Android-FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/nadav/Projects/Android-FacebookLogin/app/build/intermediates/pre-dexed/debug/classes-461387da432af3b696b71e6fcd1aa7be37e1e47c.jar" />
+    </item>
+    <item
+        jar="/home/nadav/Projects/remote/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/nadav/Projects/remote/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-097e7ff855e490950ae9c8435313324a1e8618aa.jar" />
+    </item>
+    <item
+        jar="/home/nadav/Projects/remote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/nadav/Projects/remote/app/build/intermediates/pre-dexed/debug/classes-444ce356d66789cbd046c532e278c7270c6a8077.jar" />
+    </item>
+    <item
+        jar="/home/nadav/Projects/remote/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/home/nadav/Projects/remote/app/build/intermediates/pre-dexed/debug/classes-da88e041a3efb32271b8a7159f54eb21a80267f9.jar" />
+    </item>
+    <item
+        jar="/home/nadav/Projects/Android-FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/nadav/Projects/Android-FacebookLogin/app/build/intermediates/pre-dexed/debug/classes-4846d63fd9a750fe2e6209d5a1dadd43bb1ad2df.jar" />
+    </item>
+    <item
+        jar="/home/nadav/Projects/Android-FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/nadav/Projects/Android-FacebookLogin/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-6f553361d2a018826d099c975354c9a499ed63f0.jar" />
+    </item>
+    <item
+        jar="/home/nadav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/nadav/Projects/Android-FacebookLogin/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-9e537d27437d289d1507229e58f9c6f7e139884d.jar" />
+    </item>
+    <item
+        jar="/home/nadav/Projects/Android-FacebookLogin/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/home/nadav/Projects/Android-FacebookLogin/app/build/intermediates/pre-dexed/debug/classes-b850b68daa39b9e03bb3c5cf0dc25545e10c1867.jar" />
+    </item>
+    <item
+        jar="/home/nadav/Projects/remote/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/nadav/Projects/remote/app/build/intermediates/pre-dexed/debug/classes-2c9f4f3e59f80a2b6e5ef2e7f0632bc75c950ceb.jar" />
+    </item>
+    <item
+        jar="/home/nadav/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/nadav/Projects/Android-FacebookLogin/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-d919900d61b43b573566c627359a8541364d7d4e.jar" />
+    </item>
+
+</items>
