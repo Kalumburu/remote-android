@@ -11,6 +11,10 @@ import com.facebook.FacebookException;
 import com.facebook.FacebookSdk;
 import com.facebook.login.LoginResult;
 import com.facebook.login.widget.LoginButton;
+import com.loopj.android.http.AsyncHttpClient;
+import com.loopj.android.http.AsyncHttpResponseHandler;
+
+import cz.msebera.android.httpclient.Header;
 
 public class MainActivity extends Activity {
 
@@ -37,6 +41,29 @@ public class MainActivity extends Activity {
                         "Auth Token: " + loginResult.getAccessToken().getToken());
 
                 // Add Loopback connection
+                AsyncHttpClient client = new AsyncHttpClient();
+                client.get("http://192.168.1.63:3000/auth/facebook/token?access_token="+loginResult.getAccessToken().getToken(), new AsyncHttpResponseHandler() {
+
+                    @Override
+                    public void onStart() {
+                        // called before request is started
+                    }
+
+                    @Override
+                    public void onSuccess(int statusCode, Header[] headers, byte[] response) {
+                        // called when response HTTP status is "200 OK"
+                    }
+
+                    @Override
+                    public void onFailure(int statusCode, Header[] headers, byte[] errorResponse, Throwable e) {
+                        // called when response HTTP status is "4XX" (eg. 401, 403, 404)
+                    }
+
+                    @Override
+                    public void onRetry(int retryNo) {
+                        // called when request is retried
+                    }
+                });
 
             }
 
